@@ -5,9 +5,9 @@
 
 body{
     background-image: url("main.jpg");
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
+    -webkit-background-size: 2048px 1536px;
+    -moz-background-size: 2048px 1536px;
+    background-size: 2048px 1536px;
     background-repeat: no-repeat;
 }
 
