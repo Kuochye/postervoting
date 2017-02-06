@@ -3,6 +3,9 @@
     src: url(dkcrayon.ttf);
 }
 
+html{
+    overflow: hidden;	
+}
 body{
     background-image: url("main.jpg");
     -webkit-background-size: 980px 1228px;
