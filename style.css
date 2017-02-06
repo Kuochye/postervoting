@@ -3,8 +3,10 @@
     src: url(dkcrayon.ttf);
 }
 
-html{	
+html, body{
+    position: fixed;
 }
+
 body{
     background-image: url("main.jpg");
     -webkit-background-size: 980px 1308px;
