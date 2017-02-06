@@ -4,7 +4,7 @@
 }
 
 html{
-    	
+    overflow: hidden;	
 }
 body{
     background-image: url("main.jpg");
@@ -12,6 +12,7 @@ body{
     -moz-background-size: 980px 1308px;
     background-size: 980px 1308px;
     background-repeat: no-repeat;
+    overflow: hidden;
 }
 
 #resultbox{
