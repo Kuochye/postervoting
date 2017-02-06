@@ -5,9 +5,9 @@
 
 body{
     background-image: url("main.jpg");
-    -webkit-background-size: 980px 1386px;
-    -moz-background-size: 980px 1386px;
-    background-size: 980px 1386px;
+    -webkit-background-size: 980px 1228px;
+    -moz-background-size: 980px 1228px;
+    background-size: 980px 1228px;
     background-repeat: no-repeat;
 }
 
