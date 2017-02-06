@@ -15,16 +15,15 @@ body{
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    background-attachment: scroll;
 }
 
 #resultbox{
 	position:relative;
 	background-color: #000;
-	width: 50px;
-	height: 50px;
-	top: -940px;
-	left: 1220px;
+	width: 100px;
+	height: 100px;
+	top: -1500px;
+	left: 1400px;
 }
 
 #box1{
@@ -128,7 +127,7 @@ body{
     margin: auto;
     padding: 0;  
     width: 20%;
-	height: 80%;
+    height: 80%;
     -webkit-animation-name: animatetop;
     -webkit-animation-duration: 0.4s;
     animation-name: animatetop;
