@@ -16,14 +16,14 @@ body{
 	background-color: #000;
 	width: 100px;
 	height: 100px;
-	left: 800px;
+	left: 850px;
 }
 
 #box1{
 	position:relative;
 	background-color: #000;
-	width: 350px;
-	height: 250px;
+	width: 380px;
+	height: 280px;
 	text-align: center;
 }
 
