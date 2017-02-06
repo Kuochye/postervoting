@@ -3,18 +3,19 @@
     src: url(dkcrayon.ttf);
 }
 
-html, body {
+html {
     height: 100%;
+    width: 100%;
     margin: 0;
     padding: 0;
 }
 
-img {
-    padding: 0;
-    display: block;
-    margin: 0 auto;
-    max-height: 100%;
-    max-width: 100%;
+body{
+    background-image: url("main.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-attachment: scroll;
 }
 
 #resultbox{
